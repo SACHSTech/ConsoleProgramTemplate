@@ -1,5 +1,5 @@
 ## Running Your Code in VS Code
-To run your code, hit the F5 function key on your keyboard (you may need to hit fn + F5, depending on your keyboard configuration).  On the command prompt at the top that appears, enter the name of the program you want to run. For example, to run `Program1.java`, enter `Program1` into the prompt. 
+To run your code, hit the F5 function key on your keyboard (you may need to hit fn + F5, depending on your keyboard configuration).  On the command prompt at the top that appears, enter the name of the program you want to run. For example, to run `Program1.java`, hit F5 and then enter `Program1` into the prompt. 
 
 
 ## Committing Your Code
